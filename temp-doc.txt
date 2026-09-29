@@ -1,0 +1,5 @@
+5.1. The command (cp ../temp-* .) consists to copy all the files their names start with "temp-" from the initial directory to the current directory.
+
+5.2. The reason not using "get init" in this case is maybe because the files are already configured previously.
+
+5.3. Yes, i can commit the files copied. First we need to add using the command "git add ." then commit using the command " git commit * -m "initial commit"
